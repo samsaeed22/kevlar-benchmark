@@ -1,0 +1,23 @@
+# Core
+langchain==0.2.12
+langchain-core==0.2.30
+python-dotenv==1.0.1
+
+# Agents
+autogen==0.2.31
+crewai==0.32.0
+
+# Security
+seccomp==0.1.0
+restrictedpython==6.1
+bandit==1.7.8
+
+# Networking & Comms
+requests==2.32.3
+websockets==12.0
+mitmproxy==10.2.0
+
+# Testing & Reporting
+pytest==8.2.2
+sarif-om==1.0.6
+jsonschema==4.22.0

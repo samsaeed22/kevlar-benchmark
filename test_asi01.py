@@ -10,6 +10,8 @@ from modules.critical.asi01_goal_hijack import GoalHijackOrchestrator
 
 from local_agent import AutoGenAgentWrapper
 
+# from real_agent import RealLangChainAgent
+
 COLORS = {
     "CRITICAL": "\033[91m🔴",  # Red
     "HIGH": "\033[93m🟡",      # Yellow
@@ -41,7 +43,10 @@ def main():
     
    
     # agent = MockCopilotAgent()
+    
     agent = AutoGenAgentWrapper(model_name="llama3.1")
+
+    # agent = RealLangChainAgent()
     
     config = {
         "auto_stop_on_critical": False

